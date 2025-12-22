@@ -6,40 +6,40 @@
     <description>Peter ten Klooster is an Associate Professor at the section of Psychology, Health &amp; Technology at the University of Twente. On this website you can find several products and tools that I’ve used in my research.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Dec 2025 13:34:02 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Validated questionnaires</title>
       <link>http://localhost:1313/validated-questionnaires/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 01:05:58 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/validated-questionnaires/index.html</guid>
       <description>Over the years, I’ve been involved in the development and/or evaluation of several (Dutch) questionnaires for a wide range of health-related and other constructs. The measures listed below are mostly in the public domain (if download links are provided) and can be used by researchers and practitioners without any restriction, provided the original development studies are appropriately cited.&#xA;Questionnaire Acceptance and Action Questionnaire-II (AAQ-II) Dutch English Info Arthritis Impact Measurement Scales 2 Short Form (AIMS2-SF) Dutch English Chronic Pain Acceptance Questionnaire (CPAQ) Dutch English Commissioning for Quality in Rheumatoid Arthritis Patient-Reported Experience Measure (CQRA-PREM) Dutch English Info Compassionate Technology Scale for Professionals (CTS-P) Info Effective Consumer Scale (EC-17) Dutch English Engaged Living Scale (ELS) Dutch Norms Existential Concerns Questionnaire (ECQ) Dutch English Info Five Facet Mindfulness Questionnaire (FFMQ) Dutch English Info Five Facet Mindfulness Questionnaire short form (FFMQ-SF) Dutch English Info Flourishing Scale (FS) Dutch English Info Forms of Self-Criticizing/Attacking and Self-Reassuring Scale (FSCRS) Dutch English Forms of Self-Criticizing/Attacking and Self-Reassuring Scale-Short Form (FSCRS-SF) Dutch Generalized Pain Questionnaire (GPQ) Dutch Generic Sense of Ability to Adapt Scale (GSAAS) Dutch Gout Attack Intensity Score (GAIS) English Info Health Assessment Questionnaire II (HAQ-II) Dutch English Life Orientation Test-Revised (LOT-R) Dutch English Info Manic Thought Inventory (MTI) English Info Mental Health Continuum-Short Form (MHC-SF) Dutch English Perceived Efficacy in Patient-Physician Interactions scale (PEPPI-5) Dutch English Quality of life of people with Korsakoff’s syndrome (QUALIKO) Dutch English Questionnaire about the Process of Recovery (QPR) Dutch English Questionnaire for Patient Satisfaction with Imaging (QPSI) Info Responses to Positive Affect questionnaire (RPA) Dutch SF-36 Health Survey (SF-36v2®) Info Spiritual Attitude and Involvement List Short Form (SAIL-SF) Dutch Info Substance Use Risk Profile Scale adapted for individuals with MID-BIF (SURPS-MID/BIF-NL) Dutch Sussex-Oxford Compassion for the Self Scale (SOCS-S) English Wellbeing and Social Safeness Questionnaire (WSSQ) Info World Assumption Scale (WAS) Info</description>
     </item>
     <item>
       <title>Item banks</title>
       <link>http://localhost:1313/item-banks/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 13:19:42 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/item-banks/index.html</guid>
       <description>Besides fixed-format questionnaires, I’ve also worked on the development and evaluation of item response theory (IRT) based item banks and derived short forms and computerized adaptive tests (CATs), including:&#xA;The Patient Reported Outcomes Measurement Information System (PROMIS): physical function item bank, short-form and CAT (Info) The Rasch assessment of everyday activity limitations (REAL): item bank, short-form and CAT (Info)</description>
     </item>
     <item>
       <title>Confidence interval calculators</title>
       <link>http://localhost:1313/confidence-interval-calculators/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/confidence-interval-calculators/index.html</guid>
       <description>Here you can find some calculators for computing approximate confidence intervals for observed Pearson correlations or r-square values from multiple regressions, or for differences between two independent correlations or r-squares, given the respective sample size(s).</description>
     </item>
     <item>
       <title>Psychometric sample size calculators</title>
       <link>http://localhost:1313/psychometric-sample-size-calculators/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/psychometric-sample-size-calculators/index.html</guid>
       <description>Determining the minimum sample size needed for a planned psychometric evaluation of a specific self-reported questionnaire or observational measure is not straightforward and no magic one-size-fits-all guidelines exist. Besides the actual performance of an instrument, the required sample size for such studies depends on many factors, including the type of psychometric properties assessed (e.g., structural validity or intra-rater agreement) and the specific type of analysis used (e.g., confirmatory factor analysis or a simple correlation). Standards for the psychometric quality of instruments, and required types of analyses to demonstrate these, may also be highly dependent of the nature and complexity of the construct of interest, use of the instrument (e.g., high stakes versus low stakes tests), and even the field of study.</description>
     </item>
     <item>
       <title>SPSS extensions</title>
       <link>http://localhost:1313/spss-extensions/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/spss-extensions/index.html</guid>
       <description>SPSS is a versatile and powerful program for management and statistical analysis of complex data. Especially its “point and click” user interface for data preparation and statistical tests (besides the extensive options for manual coding in syntax) makes it intuitive and user-friendly for those that don’t perform data analysis on a very regular basis.&#xA;Despite its comprehensiveness, not all common analysis procedures or tests are covered in the user interface. Below are some custom dialogues that I developed for several analyses I frequently use in my outcomes research and psychometric work. The following dialogs can be installed in SPSS and allow you to perform these analyses using the familiar SPSS dialog boxes:</description>
     </item>

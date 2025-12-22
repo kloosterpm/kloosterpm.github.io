@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/index.html</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/spss-extensions/auc_serial-measurements/index.html</loc>
     <lastmod>2025-12-21T13:34:02+01:00</lastmod>
   </url>
@@ -9,8 +13,8 @@
     <lastmod>2025-12-21T13:34:02+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/index.html</loc>
-    <lastmod>2025-12-21T13:19:42+01:00</lastmod>
+    <loc>http://localhost:1313/validated-questionnaires/index.html</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/spss-extensions/bland-altman/index.html</loc>
@@ -21,8 +25,8 @@
     <lastmod>2025-12-21T13:34:02+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/validated-questionnaires/index.html</loc>
-    <lastmod>2025-12-21T01:05:58+01:00</lastmod>
+    <loc>http://localhost:1313/item-banks/index.html</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/confidence-interval-calculators/rsquare/index.html</loc>
@@ -33,12 +37,8 @@
     <lastmod>2025-12-21T13:34:02+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/item-banks/index.html</loc>
-    <lastmod>2025-12-21T13:19:42+01:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/confidence-interval-calculators/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/confidence-interval-calculators/rsquare-dif/index.html</loc>
@@ -46,11 +46,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/psychometric-sample-size-calculators/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/spss-extensions/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/psychometric-sample-size-calculators/cronbach-hypothesis/index.html</loc>
