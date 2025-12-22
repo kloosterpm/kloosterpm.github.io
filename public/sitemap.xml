@@ -6,35 +6,35 @@
   </url>
   <url>
     <loc>http://localhost:1313/spss-extensions/auc_serial-measurements/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/confidence-interval-calculators/pearson/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/spss-extensions/bland-altman/index.html</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/confidence-interval-calculators/pearson-dif/index.html</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/validated-questionnaires/index.html</loc>
     <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/spss-extensions/bland-altman/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/confidence-interval-calculators/pearson-dif/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
+    <loc>http://localhost:1313/confidence-interval-calculators/rsquare/index.html</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/item-banks/index.html</loc>
     <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/confidence-interval-calculators/rsquare/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/spss-extensions/parallel-analysis/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/confidence-interval-calculators/index.html</loc>
@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/confidence-interval-calculators/rsquare-dif/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/psychometric-sample-size-calculators/index.html</loc>
@@ -54,23 +54,23 @@
   </url>
   <url>
     <loc>http://localhost:1313/psychometric-sample-size-calculators/cronbach-hypothesis/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/psychometric-sample-size-calculators/cronbach-interval/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/psychometric-sample-size-calculators/icc-hypothesis/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/psychometric-sample-size-calculators/icc-interval/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/psychometric-sample-size-calculators/pearson-interval/index.html</loc>
-    <lastmod>2025-12-21T13:34:02+01:00</lastmod>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/categories/index.html</loc>

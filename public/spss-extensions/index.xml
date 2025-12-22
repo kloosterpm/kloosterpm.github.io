@@ -6,26 +6,26 @@
     <description>SPSS is a versatile and powerful program for management and statistical analysis of complex data. Especially its “point and click” user interface for data preparation and statistical tests (besides the extensive options for manual coding in syntax) makes it intuitive and user-friendly for those that don’t perform data analysis on a very regular basis.&#xA;Despite its comprehensiveness, not all common analysis procedures or tests are covered in the user interface. Below are some custom dialogues that I developed for several analyses I frequently use in my outcomes research and psychometric work. The following dialogs can be installed in SPSS and allow you to perform these analyses using the familiar SPSS dialog boxes:</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Dec 2025 13:34:02 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/spss-extensions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AUC serial measurements</title>
       <link>http://localhost:1313/spss-extensions/auc_serial-measurements/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/spss-extensions/auc_serial-measurements/index.html</guid>
       <description>SPSS custom dialog bundle for computing the area under the curve of serial measurements using the trapezium rule, as described by Matthews et al. (1990).&#xA;Download the SPSS custom dialog, manual and example data on GitHub (click the Download raw file button).</description>
     </item>
     <item>
       <title>Bland-Altman agreement</title>
       <link>http://localhost:1313/spss-extensions/bland-altman/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/spss-extensions/bland-altman/index.html</guid>
       <description>SPSS custom dialog bundle for constructing a Bland-Altman plot for assessing agreement between measurements.&#xA;Download the SPSS custom dialog, manual and example data on GitHub (click the Download raw file button).</description>
     </item>
     <item>
       <title>Parallel analysis</title>
       <link>http://localhost:1313/spss-extensions/parallel-analysis/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/spss-extensions/parallel-analysis/index.html</guid>
       <description>SPSS custom dialog for determining the number of components or factors underlying a set of variables using parallel analysis. The program is based on the work of Brian O’Conner (2000) and provides a dialog version of the “rawpar.sps” syntax.&#xA;Download the SPSS custom dialog, manual and example data on GitHub (click the Download raw file button).</description>
     </item>

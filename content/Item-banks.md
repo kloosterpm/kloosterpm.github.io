@@ -1,12 +1,5 @@
 +++
-<<<<<<< Updated upstream
 date = '2025-12-22'
-=======
-date = '2025-12-21T13:19:42+01:00'
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 draft = false
 title = 'Item banks'
 weight = 3

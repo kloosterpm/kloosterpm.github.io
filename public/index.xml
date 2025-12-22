@@ -14,16 +14,13 @@
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/validated-questionnaires/index.html</guid>
       <description>Over the years, I’ve been involved in the development and/or evaluation of several (Dutch) questionnaires for a wide range of health-related and other constructs. The measures listed below are mostly in the public domain (if download links are provided) and can be used by researchers and practitioners without any restriction, provided the original development studies are appropriately cited.&#xA;Questionnaire Acceptance and Action Questionnaire-II (AAQ-II) Dutch English Info Arthritis Impact Measurement Scales 2 Short Form (AIMS2-SF) Dutch English Chronic Pain Acceptance Questionnaire (CPAQ) Dutch English Commissioning for Quality in Rheumatoid Arthritis Patient-Reported Experience Measure (CQRA-PREM) Dutch English Info Compassionate Technology Scale for Professionals (CTS-P) Info Effective Consumer Scale (EC-17) Dutch English Engaged Living Scale (ELS) Dutch Norms Existential Concerns Questionnaire (ECQ) Dutch English Info Five Facet Mindfulness Questionnaire (FFMQ) Dutch English Info Five Facet Mindfulness Questionnaire short form (FFMQ-SF) Dutch English Info Flourishing Scale (FS) Dutch English Info Forms of Self-Criticizing/Attacking and Self-Reassuring Scale (FSCRS) Dutch English Forms of Self-Criticizing/Attacking and Self-Reassuring Scale-Short Form (FSCRS-SF) Dutch Generalized Pain Questionnaire (GPQ) Dutch Generic Sense of Ability to Adapt Scale (GSAAS) Dutch Gout Attack Intensity Score (GAIS) English Info Health Assessment Questionnaire II (HAQ-II) Dutch English Life Orientation Test-Revised (LOT-R) Dutch English Info Manic Thought Inventory (MTI) English Info Mental Health Continuum-Short Form (MHC-SF) Dutch English Perceived Efficacy in Patient-Physician Interactions scale (PEPPI-5) Dutch English Quality of life of people with Korsakoff’s syndrome (QUALIKO) Dutch English Questionnaire about the Process of Recovery (QPR) Dutch English Questionnaire for Patient Satisfaction with Imaging (QPSI) Info Responses to Positive Affect questionnaire (RPA) Dutch SF-36 Health Survey (SF-36v2®) Info Spiritual Attitude and Involvement List Short Form (SAIL-SF) Dutch Info Substance Use Risk Profile Scale adapted for individuals with MID-BIF (SURPS-MID/BIF-NL) Dutch Sussex-Oxford Compassion for the Self Scale (SOCS-S) English Wellbeing and Social Safeness Questionnaire (WSSQ) Info World Assumption Scale (WAS) Info</description>
-<<<<<<< Updated upstream
-=======
     </item>
     <item>
       <title>Item banks</title>
       <link>http://localhost:1313/item-banks/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 13:19:42 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/item-banks/index.html</guid>
       <description>Besides fixed-format questionnaires, I’ve also worked on the development and evaluation of item response theory (IRT) based item banks and derived short forms and computerized adaptive tests (CATs), including:&#xA;The Patient Reported Outcomes Measurement Information System (PROMIS): physical function item bank, short-form and CAT (Info) The Rasch assessment of everyday activity limitations (REAL): item bank, short-form and CAT (Info)</description>
->>>>>>> Stashed changes
     </item>
     <item>
       <title>Confidence interval calculators</title>

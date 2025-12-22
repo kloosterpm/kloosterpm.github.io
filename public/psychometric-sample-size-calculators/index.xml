@@ -6,40 +6,40 @@
     <description>Determining the minimum sample size needed for a planned psychometric evaluation of a specific self-reported questionnaire or observational measure is not straightforward and no magic one-size-fits-all guidelines exist. Besides the actual performance of an instrument, the required sample size for such studies depends on many factors, including the type of psychometric properties assessed (e.g., structural validity or intra-rater agreement) and the specific type of analysis used (e.g., confirmatory factor analysis or a simple correlation). Standards for the psychometric quality of instruments, and required types of analyses to demonstrate these, may also be highly dependent of the nature and complexity of the construct of interest, use of the instrument (e.g., high stakes versus low stakes tests), and even the field of study.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Dec 2025 13:34:02 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/psychometric-sample-size-calculators/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cronbach’s alpha hypothesis testing</title>
       <link>http://localhost:1313/psychometric-sample-size-calculators/cronbach-hypothesis/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/psychometric-sample-size-calculators/cronbach-hypothesis/index.html</guid>
       <description>Expected Cronbach’s alpha: Minimum acceptable Cronbach’s alpha: Number of items (k): Desired power (1 – β): Significance level (α, two-sided): Required sample size (n): Approximate number of subjects required to test a Cronbach alpha coefficient with desired power. For example: for an expected Cronbach alpha of 0.85 for a (sub-)scale of 5 items and a desired power of 0.9 (90%), 86 subjects are needed to demonstrate that this Cronbach alpha value is significantly different from a minimum acceptable Cronbach alpha value of 0.65 at a significance level of 0.05 (two-tailed significance). Note: In most cases a one-sided hypothesis test will make more sense. For a one-tailed hypothesis test, multiply the desired significance level by two (e.g., 0.05 * 2 = 0.1). In the example above, for a one-tailed test the required sample size is 71 subjects. References: Bonett DG. Sample size requirements for testing and estimating coefficient alpha. J Educ Behav Stat. 2002;27(4):335-340.&#xA;Bonett DG, Wright TA. Cronbachs alpha reliability: Interval estimation, hypothesis testing, and sample size planning. J Organ Behav. 2015;36(1):3-15.</description>
     </item>
     <item>
       <title>Cronbach’s alpha interval estimation</title>
       <link>http://localhost:1313/psychometric-sample-size-calculators/cronbach-interval/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/psychometric-sample-size-calculators/cronbach-interval/index.html</guid>
       <description>Expected Cronbach’s alpha: Number of items (k): Significance level (for 1 – α confidence interval): Desired width of the confidence interval (w): Required sample size (n): Approximate number of subjects required to obtain a confidence interval of the desired width around a specified Cronbach alpha value. Significance level (α) = 0.05 translates to a 95% confidence interval, α = 0.01 to a 99% confidence interval. For example: for an expected Cronbach alpha of 0.80 for a (sub-)scale of 7 items, 147 subjects are needed to obtain a desired width of 0.1 for a 95% confidence interval (i.e., the value of Cronbach alpha is between 0.75 and 0.85). References: Bonett DG. Sample size requirements for testing and estimating coefficient alpha. J Educ Behav Stat. 2002;27(4):335-340.&#xA;Bonett DG, Wright TA. Cronbachs alpha reliability: Interval estimation, hypothesis testing, and sample size planning. J Organ Behav. 2015;36(1):3-15.</description>
     </item>
     <item>
       <title>ICC reliability hypothesis testing</title>
       <link>http://localhost:1313/psychometric-sample-size-calculators/icc-hypothesis/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/psychometric-sample-size-calculators/icc-hypothesis/index.html</guid>
       <description>Expected ICC: Minimum acceptable ICC: Number of raters (k): Desired power (1 – β): Significance level (α, two-sided): Required sample size (n): Approximate number of subjects required to test an intraclass correlation coefficient (ICC) in a one-way ANOVA model with desired power. Can be used to estimate the required approximate sample size (n) for inter-rater or test-retest reliability studies. For example: for a reliability study with two raters (or two repeated measurements), an expected ICC value of 0.8 and a desired power of 0.8 (80%), 49 subjects are needed to demonstrate that this ICC value is significantly different from a minimum acceptable ICC value of 0.6 at a two-tailed significance level of 0.05. Note: In most cases a one-sided hypothesis test will make more sense. For a one-tailed hypothesis test, multiply the desired significance level by two (e.g., α = 0.05 * 2 = 0.1). In the example above, for a one-tailed test the required sample size is 39 subjects). Reference: Walter SD, Eliasziw M, Donner A. Sample size and optimal designs for reliability studies. Stat Med. 1998;17(1):101-10.</description>
     </item>
     <item>
       <title>ICC reliability interval estimation</title>
       <link>http://localhost:1313/psychometric-sample-size-calculators/icc-interval/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/psychometric-sample-size-calculators/icc-interval/index.html</guid>
       <description>Expected ICC: Number of raters (k): Confidence interval % (1 – α): Desired width of the confidence interval (w):</description>
     </item>
     <item>
       <title>Pearson’s r interval estimation</title>
       <link>http://localhost:1313/psychometric-sample-size-calculators/pearson-interval/index.html</link>
-      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/psychometric-sample-size-calculators/pearson-interval/index.html</guid>
       <description>Expected correlation: Number of control variables: Significance level (for 1 – α confidence interval): Desired width of the confidence interval (w): Required sample size (n): Approximate number of subjects required to obtain a confidence interval of the desired width for a planning estimate of the population (partial) Pearson correlation coefficient (r). Significance level (α) = 0.05 translates to a 95% confidence interval, α = 0.01 to a 99% confidence interval. Can be used to estimate the sample size (n) required to test a hypothesis regarding the planned value of a Pearson correlation with desired power. For example: for an expected Pearson r of 0.8, 56 subjects are needed to obtain a desired 95% confidence interval width of 0.2 (i.e., the value of Pearson r is between 0.7 and 0.9). Reference: Bonett DG, Wright TA. Sample size requirements for estimating Pearson, Kendall and Spearman correlations. Psychometrika. 2000;65(1):23-28.</description>
     </item>

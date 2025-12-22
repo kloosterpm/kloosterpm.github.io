@@ -1,5 +1,5 @@
 +++
-date = '2025-12-21T13:34:02+01:00'
+date = '2025-12-22'
 draft = false
 title = 'Confidence Intervals for Pearson Correlation'
 weight = 1
