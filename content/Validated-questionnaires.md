@@ -35,7 +35,7 @@ The measures listed below are mostly in the public domain (if download links are
 | Quality of life of people with Korsakoff’s syndrome (QUALIKO) | [Dutch](https://korsakovkenniscentrum.nl/attachment/uploads/2020/09/qualiko-nederlands.pdf) | [English](https://korsakovkenniscentrum.nl/attachment/uploads/2020/09/qualiko-engels.pdf) | |
 | Questionnaire about the Process of Recovery (QPR) | [Dutch](https://github.com/kloosterpm/Questionnaires/blob/main/QPR_NL.pdf) | [English](https://www.leedsandyorkpft.nhs.uk/advice-support/wp-content/uploads/sites/3/2019/11/Questionnaire-about-the-Process-of-Recovery.pdf) | |
 | Questionnaire for Patient Satisfaction with Imaging (QPSI) | | | [Info](https://pxjournal.org/journal/vol9/iss3/19/) |
-| Response to Positive Affect questionnaire (RPA) | [Dutch](https://github.com/kloosterpm/Questionnaires/blob/main/RPA_NL.pdf) | | |
+| Responses to Positive Affect questionnaire (RPA) | [Dutch](https://github.com/kloosterpm/Questionnaires/blob/main/RPA_NL.pdf) | | |
 | SF-36 Health Survey (SF-36v2®) | | | [Info](https://www.qualitymetric.com/) |
 | Spiritual Attitude and Involvement List Short Form (SAIL-SF) | [Dutch](https://github.com/kloosterpm/Questionnaires/blob/main/SAIL-SF_NL.pdf) | | [Info](https://link.springer.com/article/10.1007/s10902-023-00640-8) |
 | Substance Use Risk Profile Scale adapted for individuals with MID-BIF (SURPS-MID/BIF-NL) | [Dutch](https://github.com/kloosterpm/Questionnaires/blob/main/SURPS_MID_BIF_NL.pdf) | | |
