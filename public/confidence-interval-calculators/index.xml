@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Confidence interval calculators :: Peter ten Klooster</title>
+    <link>http://localhost:1313/confidence-interval-calculators/index.html</link>
+    <description>Here you can find some calculators for computing approximate confidence intervals for observed Pearson correlations or r-square values from multiple regressions, or for differences between two independent correlations or r-squares, given the respective sample size(s).</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Dec 2025 13:34:02 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/confidence-interval-calculators/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Confidence Intervals for Pearson Correlation</title>
+      <link>http://localhost:1313/confidence-interval-calculators/pearson/index.html</link>
+      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <guid>http://localhost:1313/confidence-interval-calculators/pearson/index.html</guid>
+      <description>Observed Pearson correlation (r): Sample size (n): Confidence interval (CI): 80% 85% 90% 95% 99% Approximate confidence interval: to Approximate confidence intervals for an observed Pearson r correlation, given the value of r and the sample size n. For example: for an observed correlation of 0.657 and a sample size of 15, the 95% confidence interval ranges from 0.22 to 0.87. Note: Confidence intervals are based on Fisher’s r to z transformation.</description>
+    </item>
+    <item>
+      <title>Confidence intervals for differences between independent Pearson correlations</title>
+      <link>http://localhost:1313/confidence-interval-calculators/pearson-dif/index.html</link>
+      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <guid>http://localhost:1313/confidence-interval-calculators/pearson-dif/index.html</guid>
+      <description>Sample 1 Sample 2 Observed Pearson correlation (r): Sample size (n): Confidence interval (CI): 80% 85% 90% 95% 99%</description>
+    </item>
+    <item>
+      <title>Confidence intervals for R-square</title>
+      <link>http://localhost:1313/confidence-interval-calculators/rsquare/index.html</link>
+      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <guid>http://localhost:1313/confidence-interval-calculators/rsquare/index.html</guid>
+      <description>Observed R-square (R2): Number of predictors (k): Sample size (n): Confidence interval (CI): 80% 85% 90% 95% 99%</description>
+    </item>
+    <item>
+      <title>Confidence intervals for differences between independent R-squares</title>
+      <link>http://localhost:1313/confidence-interval-calculators/rsquare-dif/index.html</link>
+      <pubDate>Sun, 21 Dec 2025 13:34:02 +0100</pubDate>
+      <guid>http://localhost:1313/confidence-interval-calculators/rsquare-dif/index.html</guid>
+      <description>Observed R-square (R2): Number of predictors (k): Sample size (n): Confidence interval (CI): 80% 85% 90% 95% 99%</description>
+    </item>
+  </channel>
+</rss>

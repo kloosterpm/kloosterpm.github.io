@@ -1,0 +1,38 @@
+baseURL = 'https://kloosterpm.github.io/'
+languageCode = 'en-us'
+title = 'Peter ten Klooster'
+theme = "hugo-theme-relearn"
+disablePrintButton=false
+
+[params]
+  favicon = "/favicon.ico"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Validated questionnaires"
+url = "/validated-questionnaires/"
+weight = 2
+
+[[menu.main]]
+name = "Item banks"
+url = "/item-banks/"
+weight = 3
+
+[[menu.main]]
+name = "Confidence interval calculators"
+url = "/confidence-interval-calculators/"
+weight = 4
+
+[[menu.main]]
+name = "Psychometric sample size calculators"
+url = "/psychometric-sample-size-calculators/"
+weight = 5
+
+[[menu.main]]
+name = "SPSS extensions"
+url = "/spss-extensions/"
+weight = 6

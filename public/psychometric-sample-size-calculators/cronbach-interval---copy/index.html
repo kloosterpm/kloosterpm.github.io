@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article" data-r-output-format="html">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.153.1">
+    <meta name="generator" content="Relearn 8.3.0+d215bdc8e98becc2026d5c4cb9f8f03c10736245">
+    <meta name="description" content="Expected Cronbach’s alpha: Number of items (k): Significance level (for 1 – α confidence interval): Desired width of the confidence interval (w): Required sample size (n): Approximate number of subjects required to obtain a confidence interval of the desired width around a specified Cronbach alpha value. Significance level (α) = 0.05 translates to a 95% confidence interval, α = 0.01 to a 99% confidence interval. For example: for an expected Cronbach alpha of 0.80 for a (sub-)scale of 7 items, 147 subjects are needed to obtain a desired width of 0.1 for a 95% confidence interval (i.e., the value of Cronbach alpha is between 0.75 and 0.85). References: Bonett DG. Sample size requirements for testing and estimating coefficient alpha. J Educ Behav Stat. 2002;27(4):335-340.
+Bonett DG, Wright TA. Cronbachs alpha reliability: Interval estimation, hypothesis testing, and sample size planning. J Organ Behav. 2015;36(1):3-15.">
+    <meta name="author" content="">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Cronbach’s alpha interval estimation :: Peter ten Klooster">
+    <meta name="twitter:description" content="Expected Cronbach’s alpha: Number of items (k): Significance level (for 1 – α confidence interval): Desired width of the confidence interval (w): Required sample size (n): Approximate number of subjects required to obtain a confidence interval of the desired width around a specified Cronbach alpha value. Significance level (α) = 0.05 translates to a 95% confidence interval, α = 0.01 to a 99% confidence interval. For example: for an expected Cronbach alpha of 0.80 for a (sub-)scale of 7 items, 147 subjects are needed to obtain a desired width of 0.1 for a 95% confidence interval (i.e., the value of Cronbach alpha is between 0.75 and 0.85). References: Bonett DG. Sample size requirements for testing and estimating coefficient alpha. J Educ Behav Stat. 2002;27(4):335-340.
+Bonett DG, Wright TA. Cronbachs alpha reliability: Interval estimation, hypothesis testing, and sample size planning. J Organ Behav. 2015;36(1):3-15.">
+    <meta property="og:url" content="http://localhost:1313/psychometric-sample-size-calculators/cronbach-interval---copy/index.html">
+    <meta property="og:site_name" content="Peter ten Klooster">
+    <meta property="og:title" content="Cronbach’s alpha interval estimation :: Peter ten Klooster">
+    <meta property="og:description" content="Expected Cronbach’s alpha: Number of items (k): Significance level (for 1 – α confidence interval): Desired width of the confidence interval (w): Required sample size (n): Approximate number of subjects required to obtain a confidence interval of the desired width around a specified Cronbach alpha value. Significance level (α) = 0.05 translates to a 95% confidence interval, α = 0.01 to a 99% confidence interval. For example: for an expected Cronbach alpha of 0.80 for a (sub-)scale of 7 items, 147 subjects are needed to obtain a desired width of 0.1 for a 95% confidence interval (i.e., the value of Cronbach alpha is between 0.75 and 0.85). References: Bonett DG. Sample size requirements for testing and estimating coefficient alpha. J Educ Behav Stat. 2002;27(4):335-340.
+Bonett DG, Wright TA. Cronbachs alpha reliability: Interval estimation, hypothesis testing, and sample size planning. J Organ Behav. 2015;36(1):3-15.">
+    <meta property="og:locale" content="en_us">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="Psychometric Sample Size Calculators">
+    <meta property="article:published_time" content="2025-12-21T13:34:02+01:00">
+    <meta property="article:modified_time" content="2025-12-21T13:34:02+01:00">
+    <meta itemprop="name" content="Cronbach’s alpha interval estimation :: Peter ten Klooster">
+    <meta itemprop="description" content="Expected Cronbach’s alpha: Number of items (k): Significance level (for 1 – α confidence interval): Desired width of the confidence interval (w): Required sample size (n): Approximate number of subjects required to obtain a confidence interval of the desired width around a specified Cronbach alpha value. Significance level (α) = 0.05 translates to a 95% confidence interval, α = 0.01 to a 99% confidence interval. For example: for an expected Cronbach alpha of 0.80 for a (sub-)scale of 7 items, 147 subjects are needed to obtain a desired width of 0.1 for a 95% confidence interval (i.e., the value of Cronbach alpha is between 0.75 and 0.85). References: Bonett DG. Sample size requirements for testing and estimating coefficient alpha. J Educ Behav Stat. 2002;27(4):335-340.
+Bonett DG, Wright TA. Cronbachs alpha reliability: Interval estimation, hypothesis testing, and sample size planning. J Organ Behav. 2015;36(1):3-15.">
+    <meta itemprop="datePublished" content="2025-12-21T13:34:02+01:00">
+    <meta itemprop="dateModified" content="2025-12-21T13:34:02+01:00">
+    <meta itemprop="wordCount" content="143">
+    <title>Cronbach’s alpha interval estimation :: Peter ten Klooster</title>
+    <link href="/css/auto-complete/auto-complete.min.css?1766340412" rel="stylesheet">
+    <script src="/js/auto-complete/auto-complete.min.js?1766340412" defer></script>
+    <script src="/js/search-lunr.js?1766340412" defer></script>
+    <script src="/js/search.js?1766340412" defer></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.index_js_url="/searchindex.en.js?1766340412";
+    </script>
+    <script src="/js/lunr/lunr.min.js?1766340412" defer></script>
+    <script src="/js/lunr/lunr.stemmer.support.min.js?1766340412" defer></script>
+    <script src="/js/lunr/lunr.multi.min.js?1766340412" defer></script>
+    <script src="/js/lunr/lunr.en.min.js?1766340412" defer></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.contentLangs=['en'];
+    </script>
+    <link href="/fonts/fontawesome/css/fontawesome-all.min.css?1766340412" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/fontawesome-all.min.css?1766340412" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1766340412" rel="stylesheet">
+    <link href="/css/theme.css?1766340412" rel="stylesheet">
+    <link href="/css/format-html.css?1766340412" rel="stylesheet" id="R-format-style">
+    <script>
+      window.relearn = window.relearn || {};
+      // configuration
+      window.relearn.min = ``;
+      window.relearn.path='\/psychometric-sample-size-calculators\/cronbach-interval---copy\/index.html';
+      window.relearn.relBasePath='..\/..';
+      window.relearn.relBaseUri='..\/..';
+      window.relearn.absBaseUri='http:\/\/localhost:1313';
+      window.relearn.disableInlineCopyToClipboard=false;
+      window.relearn.enableBlockCodeWrap=true;
+      // legal
+      window.relearn.getItem = (s,n) => {return s.getItem(n)};
+      window.relearn.setItem = (s,n,v) => {return s.setItem(n,v)};
+      window.relearn.removeItem = (s,n) => {return s.removeItem(n)};
+      // translations
+      window.T_Copy_to_clipboard = `Copy text to clipboard`;
+      window.T_Copied_to_clipboard = `Text copied to clipboard!`;
+      window.T_Link_copied_to_clipboard = `Link copied to clipboard!`;
+      window.T_Reset_view = `Reset view`;
+      window.T_View_reset = `View reset!`;
+      window.T_No_results_found = `No results found for "{0}"`;
+      window.T_N_results_found = `{1} results found for "{0}"`;
+      window.T_Browser_unsupported_feature = `This browser doesn't support this feature`;
+      // variant stuff
+      window.relearn.themevariants = [ 'auto' ];
+      window.relearn.customvariantprefix = "my-custom-";
+      window.relearn.changeVariant = function(variant) {
+        var oldVariant = document.documentElement.dataset.rThemeVariant;
+        window.relearn.setItem(window.localStorage, window.relearn.absBaseUri + "/variant", variant);
+        document.documentElement.dataset.rThemeVariant = variant;
+        if (oldVariant != variant) {
+          document.dispatchEvent( new CustomEvent('themeVariantLoaded', { detail: { variant, oldVariant } }) );
+          window.relearn.markVariant();
+        }
+      }
+      window.relearn.markVariant = function() {
+        var variant = window.relearn.getItem(window.localStorage, window.relearn.absBaseUri + "/variant");
+        document.querySelectorAll(".R-variantswitcher select").forEach((select) => {select.value = variant;});
+      }
+      window.relearn.initVariant = function() {
+        var variant = window.relearn.getItem(window.localStorage, window.relearn.absBaseUri + "/variant") ?? "";
+        if( !variant ||
+            (!variant.startsWith(window.relearn.customvariantprefix) && !window.relearn.themevariants.includes(variant)) ||
+            (variant.startsWith(window.relearn.customvariantprefix) && !window.relearn.getItem(window.localStorage, window.relearn.absBaseUri + "/variantstylesheet-" + variant)) ){
+          variant = window.relearn.themevariants[0];
+          window.relearn.setItem(window.localStorage, window.relearn.absBaseUri + "/variant", variant);
+        }
+        document.documentElement.dataset.rThemeVariant = variant;
+      }
+      window.relearn.initVariant();
+      window.relearn.markVariant();
+    </script>
+  </head>
+  <body class="mobile-support html" data-url="/psychometric-sample-size-calculators/cronbach-interval---copy/index.html">
+    <div id="R-body" class="default-animation">
+      <div id="R-body-overlay"></div>
+      <nav id="R-topbar" class="default-animation">
+        <div class="topbar-wrapper default-animation">
+          <div class="topbar-sidebar-divider default-animation"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar default-animation" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button></span>
+            </div>
+            <div class="topbar-button topbar-button-toc default-animation" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="Table of Contents (CTRL&#43;ALT&#43;t)"><i class="fa-fw fas fa-list-alt"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper"> 
+                </div>
+              </div>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/index.html"><span itemprop="name">Peter ten Klooster</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/psychometric-sample-size-calculators/index.html"><span itemprop="name">Psychometric Sample Size Calculators</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><span itemprop="name">Cronbach’s alpha interval estimation</span><meta itemprop="position" content="3"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-prev default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/psychometric-sample-size-calculators/index.html" title="Psychometric Sample Size Calculators (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-next default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/psychometric-sample-size-calculators/cronbach-interval/index.html" title="Cronbach’s alpha interval estimation (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-more default-animation" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="More"><i class="fa-fw fas fa-ellipsis-v"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+                  <div class="topbar-area topbar-area-more" data-area="more">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="R-main-overlay"></div>
+      <main id="R-body-inner" class="highlightable psychometric-sample-size-calculators" tabindex="-1">
+        <div class="flex-block-wrapper">
+<article class="default">
+  <header class="headline">
+  </header>
+
+<h1 id="cronbachs-alpha-interval-estimation">Cronbach’s alpha interval estimation</h1>
+
+
+
+
+
+<html>
+<script src="https://cdn.jsdelivr.net/npm/jstat@latest/dist/jstat.min.js"></script>
+
+<form name="cronbachest">
+
+<table style="font-family: arial;font-size: 11pt"> 
+	<tr>
+		<td>Expected Cronbach&#8217;s alpha:</td>
+		<td><input name="cronbach" type="number" value="0.8" min="0" max="1" step="0.01" value="0.80"></td>
+	</tr>
+	<tr>
+		<td>Number of items (<i>k</i>):</td>
+		<td><input name="k" type="number" value="7" min="0" max="9999"step="1"></td>
+	</tr>
+		<tr>
+		<td>Significance level (for 1 &#8211; <i>&alpha;</i> confidence interval):</td>
+		<td><input name="alpha" type="number" value="0.05" min="0" max="1" step="0.01"></td>
+	</tr>
+	<tr>
+		<td>Desired width of the confidence interval (<i>w</i>):</td>
+		<td><input name="w" type="number" value="0.1" min="0" max="1" step="0.01"></td>
+	</tr>
+	<tr>
+		<td><input type="button" value="Calculate sample size" onClick="Calculate_cronbachest()"></td>
+		<td><input type="reset" value="RESET"></td>
+	</tr>
+	<tr>
+		<td><b>Required sample size (<i>n</i>):</b></td>
+		<td><input name="result" value="" type="number" readonly></td>
+	</tr>
+</table>
+</p>
+
+</form>
+
+<script type="text/javascript">
+
+function Calculate_cronbachest() 
+	{
+	// Input
+	cronbach=Number(document.cronbachest.cronbach.value);
+	k=Number(document.cronbachest.k.value);
+	alpha=Number(document.cronbachest.alpha.value);
+	w=Number(document.cronbachest.w.value);
+
+	// Calculation
+	z=jStat.normal.inv(1 - alpha/2, 0, 1);
+	n0=Math.ceil((8 * k / (k - 1)) * (1 - cronbach)**2 * (z / w)**2 + 2);
+	b=Math.log(n0 / (n0 - 1));
+	ll=1 - Math.exp(Math.log(1 - cronbach) - b + z*Math.sqrt(2 * k /  ((k - 1) * (n0 - 2))))
+	ul=1 - Math.exp(Math.log(1 - cronbach) - b - z*Math.sqrt(2 * k /  ((k - 1) * (n0 - 2))))
+	w0=ul - ll
+	
+	res=Math.ceil((n0 - 2) * (w0/w)**2 + 2)
+		
+	//Result
+	document.cronbachest.result.value=res;
+	}
+
+</script>
+
+<table style="font-family: arial;font-size: 11pt">  
+	<tr>
+		<td>Approximate number of subjects required to obtain a confidence interval of the desired width around a specified Cronbach alpha value.
+		Significance level (<i>&alpha;</i>) = 0.05 translates to a 95% confidence interval, <i>&alpha;</i> = 0.01 to a 99% confidence interval. 
+		<br><br>For example: for an expected Cronbach alpha of 0.80 for a (sub-)scale of 7 items, 147 subjects are needed to obtain a desired width of 0.1 for a 95% confidence interval (i.e., the value of Cronbach alpha is between 0.75 and 0.85).
+		<br><br><b>References:</b>
+		<p>
+		Bonett DG. Sample size requirements for testing and estimating coefficient alpha. J Educ Behav Stat. 2002;27(4):335-340.<br>
+		Bonett DG, Wright TA. Cronbachs alpha reliability: Interval estimation, hypothesis testing, and sample size planning. J Organ Behav. 2015;36(1):3-15.</td>
+	</tr>
+</table>
+
+<br>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+  <footer class="footline">
+              <i class='fa-fw fas fa-calendar'></i> Dec 21, 2025
+  </footer>
+</article>
+        </div>
+      </main>
+    </div>
+    <aside id="R-sidebar" class="default-animation">
+      <div id="R-header-topbar" class="default-animation"></div>
+      <div id="R-header-wrapper" class="default-animation">
+        <a id="R-logo" class="R-default direction-row" href="/index.html">
+          <span class="logo-title default-animation">Peter ten Klooster</span>
+        </a>
+        <search><form action="/search/index.html" method="get">
+          <div class="searchbox default-animation">
+            <button class="search-detail" type="submit" title="Search (CTRL+ALT+f)"><i class="fas fa-search"></i></button>
+            <label class="a11y-only" for="R-search-by">Search</label>
+            <input data-search-input id="R-search-by" name="search-by" class="search-by" type="search" placeholder="Search...">
+            <button class="search-clear" type="button" data-search-clear="" title="Clear search"><i class="fas fa-times" title="Clear search"></i></button>
+          </div>
+        </form></search>
+      </div>
+      <div id="R-homelinks" class="default-animation homelinks">
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-homelinks default-animation">
+          <ul class="space collapsible-menu">
+            <li class="" data-nav-url="/index.html"><a class="padding" href="/index.html"><i class="fa-fw fas fa-home"></i> Home</a></li>
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-headercontrols default-animation">
+          <ul class="">
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+      </div>
+      <div id="R-content-wrapper" class="highlightable">
+        <div class="R-sidebarmenu R-shortcutmenu-main default-animation">
+          <ul class="enlarge morespace collapsible-menu">
+            <li class="" data-nav-url="/confidence-interval-calculators/index.html"><a class="padding default-animation" href="/confidence-interval-calculators/index.html">Confidence Interval Calculators</a><ul id="R-subsections-82b01681c78a38a72b7bd4cea63ecd62" class="collapsible-menu"></ul></li>
+            <li class="parent " data-nav-url="/psychometric-sample-size-calculators/index.html"><a class="padding default-animation" href="/psychometric-sample-size-calculators/index.html">Psychometric Sample Size Calculators</a><ul id="R-subsections-b05db8bbe289d0cc6a607031584adae1" class="collapsible-menu">
+            <li class="active " data-nav-url="/psychometric-sample-size-calculators/cronbach-interval---copy/index.html"><a class="padding" href="/psychometric-sample-size-calculators/cronbach-interval---copy/index.html">Cronbach’s alpha interval estimation</a></li>
+            <li class="" data-nav-url="/psychometric-sample-size-calculators/cronbach-interval/index.html"><a class="padding" href="/psychometric-sample-size-calculators/cronbach-interval/index.html">Cronbach’s alpha interval estimation</a></li>
+            <li class="" data-nav-url="/psychometric-sample-size-calculators/icc-hypothesis/index.html"><a class="padding" href="/psychometric-sample-size-calculators/icc-hypothesis/index.html">ICC reliability hypothesis testing</a></li>
+            <li class="" data-nav-url="/psychometric-sample-size-calculators/icc-interval/index.html"><a class="padding" href="/psychometric-sample-size-calculators/icc-interval/index.html">ICC reliability interval estimation</a></li></ul></li>
+            <li class="" data-nav-url="/item-banks/index.html"><a class="padding" href="/item-banks/index.html">Item banks</a></li>
+            <li class="" data-nav-url="/validated-questionnaires/index.html"><a class="padding" href="/validated-questionnaires/index.html">Validated questionnaires</a></li>
+          </ul>
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-shortcuts default-animation">
+          <ul class="space collapsible-menu">
+          </ul>
+        </div>
+        <div id="R-footer-margin" class="default-animation"></div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-footercontrols default-animation">
+          <ul class="">
+          </ul>
+        </div>
+<div id="R-footer" class="default-animation"><p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p></div>
+      </div>
+    </aside>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1766340412" defer></script>
+    <script src="/js/theme.js?1766340412" defer></script>
+    <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
+  </body>
+</html>
