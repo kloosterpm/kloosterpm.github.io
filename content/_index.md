@@ -33,7 +33,7 @@ Peter ten Klooster is an Associate Professor at the section of [Psychology, Heal
 <style>
   .social-icons {
     display: flex;
-    justify-content: center;   /* center across page */
+    justify-content: center;   
     gap: 1.5rem;               /* space between icons */
     margin: 2rem 0;
   }
