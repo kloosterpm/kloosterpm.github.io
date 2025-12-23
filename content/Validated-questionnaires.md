@@ -1,4 +1,9 @@
-+++ date = '2025-12-22' draft = false title = 'Validated questionnaires' weight = 2 +++
++++ 
+date = '2025-12-22' 
+draft = false 
+title = 'Validated questionnaires' 
+weight = 2 
++++
 
 Over the years, I’ve been involved in the development and/or evaluation of several (Dutch) questionnaires for a wide range of health-related and other constructs. The measures listed below are mostly in the public domain (if download links are provided) and can be used by researchers and practitioners without any restriction, provided the original development studies are appropriately cited.
 
