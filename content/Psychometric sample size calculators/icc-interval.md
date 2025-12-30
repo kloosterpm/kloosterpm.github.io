@@ -36,7 +36,7 @@ title = 'ICC reliability interval estimation'
 	</tr>
 	<tr>
 		<td><b> Required sample size (<i>n</i>):</b></td> 
-		<td> <input name="result" value="" type="number" readonly style="width: 100px"></td>
+		<td> <input name="result" value="" type="number" readonly></td>
 	</tr>
 </table>
 </p>
