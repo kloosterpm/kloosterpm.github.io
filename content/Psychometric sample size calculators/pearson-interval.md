@@ -9,6 +9,7 @@ title = 'Pearson’s r interval estimation'
 
 
 <html>
+<script src="https://cdn.jsdelivr.net/npm/jstat@latest/dist/jstat.min.js"></script>
 
 
 <form name="rest">
