@@ -1,8 +1,8 @@
 var relearn_searchindex = [
   {
     "breadcrumb": "",
-    "content": "Peter ten Klooster is an Associate Professor at the section of Psychology, Health \u0026 Technology at the University of Twente. On this website you can find several products and tools that I’ve used in my research.",
-    "description": "Peter ten Klooster is an Associate Professor at the section of Psychology, Health \u0026 Technology at the University of Twente. On this website you can find several products and tools that I’ve used in my research.",
+    "content": "Peter ten Klooster is an Associate Professor at the section of Psychology, Health \u0026 Technology at the University of Twente.\nOn this website you can find several products and tools that I’ve used in my research. On this website you can find several products and tools that I’ve used in my research.",
+    "description": "Peter ten Klooster is an Associate Professor at the section of Psychology, Health \u0026 Technology at the University of Twente.\nOn this website you can find several products and tools that I’ve used in my research. On this website you can find several products and tools that I’ve used in my research.",
     "tags": [],
     "title": " ",
     "uri": "/index.html"
