@@ -11,6 +11,7 @@ disablePrintButton=false
 
 [params]
   favicon = "/favicon.ico"
+  custom_css = ["css/custom.css"]
 
 [[menu.main]]
 name = "Home"
