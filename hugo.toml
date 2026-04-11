@@ -4,6 +4,11 @@ title = 'Peter ten Klooster'
 theme = "hugo-theme-relearn"
 disablePrintButton=false
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   favicon = "/favicon.ico"
 
@@ -37,7 +42,3 @@ name = "SPSS extensions"
 url = "/spss-extensions/"
 weight = 6
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
