@@ -1,7 +1,7 @@
 +++
 date = '2025-12-22'
 draft = false
-title = 'Home'
+title = ''
 weight = 1
 +++
 
