@@ -36,3 +36,8 @@ weight = 5
 name = "SPSS extensions"
 url = "/spss-extensions/"
 weight = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
