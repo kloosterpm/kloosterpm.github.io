@@ -33,7 +33,7 @@ Over the years, I’ve been involved in the development and/or evaluation of sev
 | Perceived Efficacy in Patient-Physician Interactions scale (PEPPI-5) | [Dutch](https://github.com/kloosterpm/Questionnaires/blob/main/PEPPI5_NL.pdf) | [English](https://github.com/kloosterpm/Questionnaires/blob/main/PEPPI_ENG.pdf) |  |
 | Quality of life of people with Korsakoff’s syndrome (QUALIKO) | [Dutch](https://korsakovkenniscentrum.nl/attachment/uploads/2020/09/qualiko-nederlands.pdf) | [English](https://korsakovkenniscentrum.nl/attachment/uploads/2020/09/qualiko-engels.pdf) |  |
 | Questionnaire about the Process of Recovery (QPR) | [Dutch](https://github.com/kloosterpm/Questionnaires/blob/main/QPR_NL.pdf) | [English](https://www.leedsandyorkpft.nhs.uk/advice-support/wp-content/uploads/sites/3/2019/11/Questionnaire-about-the-Process-of-Recovery.pdf) |  |
-| Questionnaire for Patient Satisfaction with Imaging (QPSI) |  |  | [Info](https://pxjournal.org/journal/vol9/iss3/19/) |
+| Questionnaire for Patient Satisfaction with Imaging (QPSI) | [Dutch](https://github.com/kloosterpm/Questionnaires/blob/main/QPR_NL.pdf) |  | [Info](https://pxjournal.org/journal/vol9/iss3/19/) |
 | Responses to Positive Affect questionnaire (RPA) | [Dutch](https://github.com/kloosterpm/Questionnaires/blob/main/RPA_NL.pdf) |  |  |
 | SF-36 Health Survey (SF-36v2®) |  |  | [Info](https://www.qualitymetric.com/) |
 | Spiritual Attitude and Involvement List Short Form (SAIL-SF) | [Dutch](https://github.com/kloosterpm/Questionnaires/blob/main/SAIL-SF_NL.pdf) |  | [Info](https://link.springer.com/article/10.1007/s10902-023-00640-8) |
